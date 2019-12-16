@@ -1,0 +1,1 @@
+Изучаю базовые классы для создания API в джанго рест: ApiView, GenericApiView, Viewsets, а также создание сериализаторов для CRUD API
